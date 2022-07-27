@@ -19,7 +19,8 @@
 
 <h2>Importante Saber</h2>
     <p> 
-      Neste estudo utilizou-se a ferramenta de desenvolvimento o VISUAL STUDIO CODE 
+      Neste estudo utilizou-se a ferramenta de desenvolvimento o 
+        <b> VISUAL STUDIO CODE </b> 
     </p>
 
 <div>
