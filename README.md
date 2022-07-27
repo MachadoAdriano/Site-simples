@@ -14,7 +14,7 @@
       </a> O estudo é ofertado pela <a href = "https://ead.escoladotrabalhador40.com.br/" > Escola do Trabalhado 40 </a> na modalidade 
           <b> 
             EAD e Gratuito.
-          </b>.
+          </b>
      </p>
 
 <h2>Importante Saber</h2>
