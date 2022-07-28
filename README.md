@@ -11,11 +11,11 @@
     <p>
     Este site foi desenvolvido de uma forma bem simples mas, no entanto, ao analisar o código em cada arquivo poderá verificar que conta com uma estrutura facilitadora para relembrar a estruturação dos arquivos basicos da programação <a> <b> (.HTML, .CSS e .JS). 
     </b> 
-      <a> O estudo é ofertado pela <a href = "https://ead.escoladotrabalhador40.com.br/" target="_blank"> Escola do Trabalhado 40 </a> na modalidade 
+      <p> O estudo é ofertado pela <a href = "https://ead.escoladotrabalhador40.com.br/" target="_blank" rel="noreferrer noopener"> Escola do Trabalhado 40 </a> na modalidade 
           <b> 
             EAD e Gratuito.
           </b>
-     </p>
+       </p>
 
 <h2>Importante Saber</h2>
     <p> 
